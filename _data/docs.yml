@@ -1,0 +1,4 @@
+- title: features
+  path: /features
+  langs: ["ca", "es"]
+  url: "https://decidim-features.netlify.com"

@@ -1,0 +1,5 @@
+---
+---
+{% for doc in site.data.docs %}
+{{doc.path}}/* {{doc.url}}{{doc.path}}/:splat 200
+{% endfor %}

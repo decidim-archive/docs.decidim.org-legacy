@@ -1,0 +1,18 @@
+# Site settings
+title: Decidim Documentation
+email: hola@decidim.org
+description: |
+  Website to host the documentation of Decidim project, the participatory democracy framework.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://docs.decidim.org" # the base hostname & protocol for your site, e.g. http://example.com
+lang: ca
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+include:
+  - _redirects
