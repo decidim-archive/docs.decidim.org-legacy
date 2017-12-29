@@ -1,4 +1,9 @@
+- title: editing-guide
+  path: /editing-guide
+  langs: ["ca", "en", "es"]
+  url: "https://decidim-editing-guide.netlify.com"
+
 - title: features
   path: /features
-  langs: ["ca", "es"]
+  langs: ["ca", "en", "es"]
   url: "https://decidim-features.netlify.com"
